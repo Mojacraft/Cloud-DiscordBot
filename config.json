@@ -1,0 +1,14 @@
+{
+    "token": "NjA5ODAyMjYxNjIyOTQ3ODUw.XVAnwg.oEdk3ZXe13_RyVecbzssh8GcVdY",
+    "owner": "236496364492554240",
+    "prefix": "!",
+    "adminprefix": ".",
+    
+    "activity": {
+        "streaming": false,
+        "url": "https://www.twitch.tv/mojacraft",
+        "game": "!help",
+        "streamgame": "auf Twitch"
+    }
+
+}
